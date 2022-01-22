@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(29, 37, 45);
+}
+.button{
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(221, 221, 221);
+    display: block;
+    margin: 0px auto 0 auto;
+    transition: all .4s;
+
+}
+
+.button:hover{
+    width: 330px;
+    height: 45px;
+    transition: all .3s;
+
+
+ 
+}
+
+.buttonmargintop{
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(221, 221, 221);
+    display: block;
+    margin: 14px auto 0 auto;
+    transition: all .4s;
+
+    
+}
+
+.buttonmargintop:hover{
+    width: 330px;
+    height: 45px;
+    transition: all .3s;
+
+
+ 
+}
+
+
+.buttonmarginbottum{
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(221, 221, 221);
+    display: block;
+    margin: 15px auto 120px auto;
+    transition: all .4s;
+
+    
+
+}
+.buttonmarginbottum:hover{
+    width: 330px;
+    height: 45px;
+    transition: all .3s;
+ 
+}
+
+
+.button_text{
+    color: rgb(41, 41, 41);
+    font-family: arial;
+
+    font-weight: 500;
+
+    font-size: 18px;
+
+}
+.katagori{
+    display: block;
+    margin: 30px auto 30px auto;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 18px;
+    color: blanchedalmond;
+    text-align: center;
+
+
+}
+.title{
+    color: blanchedalmond;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: monospace;
+    padding-top: 8px;
+
+}
+.profile_img{
+    width: 200px;
+    height: 200px;
+
+    border-radius: 100%;
+
+}
+.profile_mar{
+    display: flex;
+  justify-content: center;
+  margin-top: 84px;
+}
+.profile_name{
+    color: blanchedalmond;
+    
+        display:table;
+        margin:20px auto;
+       
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
